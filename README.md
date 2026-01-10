@@ -17,11 +17,15 @@
 
 ## 📸 Capturas de pantalla
 
+<details>
+	<summary><strong>Lista de productos"</strong></summary>
+	<img src="./assets/screenshots/lista-productos.JPG" alt="Desktop" width="600" />
+</details>
 
-<div align="center">
-	<img src="./assets/screenshots/lista-productos.JPG" alt="Lista de productos" width="250" style="margin-right: 24px;"/>
-	<img src="./assets/screenshots/detalle-producto.JPG" alt="Detalle del producto" width="250"/>
-</div>
+<details>
+	<summary><strong>Tablet (1024x1366)</strong></summary>
+	<img src="./assets/screenshots/detalle-producto.JPG" alt="Desktop" width="400" />
+</details>
 
 **Ejemplo de pantallas:**
 
