@@ -1,4 +1,4 @@
-# 🛍️ Flutter - flutter_pruebatc
+# 🛍️ Flutter - App Productos
 
 **Flutter App Productos** es una aplicación móvil desarrollada en **Flutter** que consume la API pública de [DummyJSON](https://dummyjson.com/). Permite ver una lista de productos con **scroll infinito**, visualizar el detalle de cada producto y gestionar el estado con **Riverpod**.
 
@@ -17,9 +17,16 @@
 
 ## 📸 Capturas de pantalla
 
-| 📱 Lista de productos | 📱 Detalle del producto |
-|----------------------|----------------------|
-| ![Lista](assets/screenshots/lista-productos.JPG) | ![Detalle](assets/screenshots/detalle-producto.JPG) |
+
+<div align="center">
+	<img src="./assets/screenshots/lista-productos.JPG" alt="Lista de productos" width="250" style="margin-right: 24px;"/>
+	<img src="./assets/screenshots/detalle-producto.JPG" alt="Detalle del producto" width="250"/>
+</div>
+
+**Ejemplo de pantallas:**
+
+- 📱 <b>Lista de productos</b>: Visualiza todos los productos disponibles con scroll infinito.
+- 📱 <b>Detalle del producto</b>: Consulta información, imagen y precio de cada producto.
 
 ---
 
