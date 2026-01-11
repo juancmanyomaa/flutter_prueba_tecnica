@@ -18,19 +18,14 @@
 ## 📸 Capturas de pantalla
 
 <details>
-	<summary><strong>Lista de productos"</strong></summary>
+	<summary><strong>Lista de productos."</strong></summary>
 	<img src="./assets/screenshots/lista-productos.JPG" alt="Desktop" width="600" />
 </details>
 
 <details>
-	<summary><strong>Tablet (1024x1366)</strong></summary>
+	<summary><strong>Detalle del producto.</strong></summary>
 	<img src="./assets/screenshots/detalle-producto.JPG" alt="Desktop" width="400" />
 </details>
-
-**Ejemplo de pantallas:**
-
-- 📱 <b>Lista de productos.</b>: Visualiza todos los productos disponibles con scroll infinito.
-- 📱 <b>Detalle del producto.</b>: Consulta información, imagen y precio de cada producto.
 
 ---
 
