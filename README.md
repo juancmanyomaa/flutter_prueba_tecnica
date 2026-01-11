@@ -29,8 +29,8 @@
 
 **Ejemplo de pantallas:**
 
-- 📱 <b>Lista de productos</b>: Visualiza todos los productos disponibles con scroll infinito.
-- 📱 <b>Detalle del producto</b>: Consulta información, imagen y precio de cada producto.
+- 📱 <b>Lista de productos.</b>: Visualiza todos los productos disponibles con scroll infinito.
+- 📱 <b>Detalle del producto.</b>: Consulta información, imagen y precio de cada producto.
 
 ---
 
